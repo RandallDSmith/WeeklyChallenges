@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sandt\\Desktop\\Coding School\\repos\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
+    "D:\\Coding School\\repos\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sandt\\Desktop\\Coding School\\repos\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+    "D:\\Coding School\\repos\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sandt\\Desktop\\Coding School\\repos\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "D:\\Coding School\\repos\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "C:\\Users\\sandt\\Desktop\\Coding School\\repos\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
-        "packagesPath": "C:\\Users\\sandt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sandt\\Desktop\\Coding School\\repos\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
+        "projectPath": "D:\\Coding School\\repos\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "packagesPath": "C:\\Users\\rdsmi\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding School\\repos\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sandt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rdsmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
